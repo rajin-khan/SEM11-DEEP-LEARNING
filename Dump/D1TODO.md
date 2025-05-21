@@ -1,6 +1,18 @@
 ## Day 1 — To-Do List
 
 * [ ] Finish **Chapter 1** at [neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com)
+
+  * [ ] Go through
+  * [ ] Type out relevant code yourself and try
+
+### 🧠 Math & Glossary
+
+* [ ] Create a glossary of:
+
+  * [ ] Math **symbols**
+  * [ ] Unknown **terms**
+  * [ ] Any unclear **PyTorch functions**
+
 * [ ] Learn **PyTorch basics**
 
   * [ ] Tensors
@@ -10,23 +22,15 @@
 ### 📚 Read 10 Key Deep Learning Papers from **2012**
 
 1. [ ] AlexNet — *ImageNet Classification with Deep Convolutional Neural Networks* – Krizhevsky et al.
-2. [ ] Deep Belief Nets — *A Practical Guide to Training Restricted Boltzmann Machines* – Hinton (revisited in 2012)
-3. [ ] Unsupervised Feature Learning — *Building High-level Features Using Large Scale Unsupervised Learning* – Le et al. (Google Brain)
-4. [ ] Dropout proposal — *Improving neural networks by preventing co-adaptation of feature detectors* – Hinton et al. (early dropout version, 2012 arXiv)
-5. [ ] RNN training improvements — *Learning to execute* (related works in 2012 on sequence learning)
-6. [ ] Maxout networks precursor ideas
-7. [ ] Deep sparse rectifier neural nets — *Rectified Linear Units Improve Restricted Boltzmann Machines* – Nair & Hinton
-8. [ ] *Learning representations by backpropagating errors* (classic rereleased/discussed)
-9. [ ] *Stochastic Pooling for Regularization* – Zeiler & Fergus
-10. [ ] *Evolving deep architectures using genetic programming* – Real et al.
-
-### 🧠 Math & Glossary
-
-* [ ] Create a glossary of:
-
-  * [ ] Math **symbols**
-  * [ ] Unknown **terms**
-  * [ ] Any unclear **PyTorch functions**
+2. [ ] Dropout — *Improving Neural Networks by Preventing Co-adaptation of Feature Detectors* – Hinton et al.
+3. [ ] Google Brain Cat Paper — *Building High-level Features Using Large Scale Unsupervised Learning* – Le et al.
+4. [ ] Multi-column DNNs — *Multi-column Deep Neural Networks for Image Classification* – Ciresan et al.
+5. [ ] Training Deep Architectures — *Practical Recommendations for Gradient-Based Training of Deep Architectures* – Bengio
+6. [ ] Acoustic Modeling — *Deep Neural Networks for Acoustic Modeling in Speech Recognition* – Hinton et al.
+7. [ ] SGD Tricks — *Stochastic Gradient Descent Tricks* – Bottou
+8. [ ] GPU-Based DNNs — *ImageNet Classification with Deep Convolutional Neural Networks* – Krizhevsky et al.
+9. [ ] Optimization Methods — *On Optimization Methods for Deep Learning* – Le et al.
+10. [ ] Representation Learning — *Representation Learning: A Review and New Perspectives* – Bengio et al.
 
 * [ ] Brush up stats basics:
   * [ ] Mean
